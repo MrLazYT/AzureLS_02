@@ -12,7 +12,7 @@ export default function Posts({ posts }) {
     return (
         <Box>
             <Typography className="typography" variant="h4">
-                Posts
+                Posts deployed to Azure
             </Typography>
 
             <Box className="button-container">
